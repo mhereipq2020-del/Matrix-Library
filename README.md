@@ -9,8 +9,8 @@ against PyTorch.
 
 ## Requirements
 
--   GCC
--   Python 3 + PyTorch + NumPy (only needed for validation/benchmarking)
+- GCC
+- Python 3 + PyTorch + NumPy (only needed for validation/benchmarking)
 
 ``` bash
 pip install torch numpy
